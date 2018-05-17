@@ -177,5 +177,6 @@ function proxyReactive(obj) {
 [Object.defineProperty()](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty)
  
 [ES6 Proxy](http://es6.ruanyifeng.com/#docs/proxy)
+[ES6 Proxy在vue源码中的使用](http://es6.ruanyifeng.com/#docs/proxy)
 
 [Document.createDocumentFragment()](https://developer.mozilla.org/zh-CN/docs/Web/API/Document/createDocumentFragment)
